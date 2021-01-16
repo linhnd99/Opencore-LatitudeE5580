@@ -22,5 +22,7 @@ Recommend to use ProperTree to config config.plist
 
 I don't understand why i can't fix trackpad (Microsoft HID). If you can, please contact me via email linhnd99hit@gmail.com. Thank you!
 
-
-
+Thanks to 
+- http://dortania.github.io
+- https://www.facebook.com/groups/vnohackintosh
+- https://www.facebook.com/groups/hackintosh.vietnam
